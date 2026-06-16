@@ -71,19 +71,6 @@ Research-Paper-Summarizer/
 
 ---
 
-## Gemini API Configuration
-
-Before generating summaries, configure your Gemini API key in the application.
-
-* Open the application.
-* Navigate to the API Configuration or Settings section.
-* Enter your Gemini API key.
-* Save the configuration.
-* Upload a research paper and generate summaries.
-
-Note: A valid Gemini API key is required for AI-powered summarization and chat features.
-
-
 ##  Installation
 
 ### 1. Clone Repository
@@ -132,12 +119,16 @@ http://localhost:5173
 
 ##  How It Works
 
-1. User uploads a research paper PDF.
-2. Backend extracts text from the document.
-3. NLP metrics are calculated.
-4. Gemini AI generates a summary.
-5. Results are displayed on the frontend.
-6. Users can ask questions about the paper using the chat feature.
+1. Open the application.
+2. Navigate to the API Configuration or Settings section.
+3. Enter your Gemini API key.
+4. Save the configuration.
+6. User uploads a research paper PDF.
+7. Backend extracts text from the document.
+8. NLP metrics are calculated.
+9. Gemini AI generates a summary.
+11. Results are displayed on the frontend.
+12. Users can ask questions about the paper using the chat feature.
 
 ---
 
