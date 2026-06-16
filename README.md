@@ -1,6 +1,6 @@
-# 📚 Research Paper Summarizer using AI
+#  Research Paper Summarizer using AI
 
-## 🚀 Overview
+##  Overview
 
 Research Paper Summarizer is an AI-powered web application that helps users quickly understand research papers by generating concise summaries and key insights from PDF documents.
 
@@ -8,24 +8,24 @@ The application extracts text from uploaded research papers, analyzes the conten
 
 ---
 
-## ✨ Features
+##  Features
 
-* 📄 Upload and analyze PDF research papers
-* 🤖 AI-generated summaries using Gemini API
-* 🔍 Automatic text extraction from PDFs
-* 📊 NLP-based document statistics
+*  Upload and analyze PDF research papers
+*  AI-generated summaries using Gemini API
+*  Automatic text extraction from PDFs
+*  NLP-based document statistics
 
   * Word Count
   * Estimated Reading Time
   * Complexity Level
   * Keyword Extraction
-* 💬 Chat with your research paper
-* 🌐 Modern React-based user interface
-* ⚡ FastAPI backend for efficient processing
+*  Chat with your research paper
+*  Modern React-based user interface
+*  FastAPI backend for efficient processing
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -48,7 +48,7 @@ The application extracts text from uploaded research papers, analyzes the conten
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Research-Paper-Summarizer/
@@ -71,7 +71,7 @@ Research-Paper-Summarizer/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone Repository
 
@@ -125,7 +125,7 @@ http://localhost:5173
 
 ---
 
-## 📖 How It Works
+##  How It Works
 
 1. User uploads a research paper PDF.
 2. Backend extracts text from the document.
@@ -136,7 +136,7 @@ http://localhost:5173
 
 ---
 
-## 📊 Output Includes
+##  Output Includes
 
 * Research Paper Summary
 * Key Insights
@@ -148,7 +148,7 @@ http://localhost:5173
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Multi-paper comparison
 * Citation extraction
@@ -159,12 +159,12 @@ http://localhost:5173
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Developed as an AI-powered academic assistance project for simplifying research paper understanding and analysis.
 
 ---
 
-## 📜 License
+##  License
 
 This project is intended for educational and learning purposes.
